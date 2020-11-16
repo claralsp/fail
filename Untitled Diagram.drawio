@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T05:32:18.412Z" agent="5.0 (X11)" etag="jgLEIGlZ5J5vbEZMtcJT" version="13.9.9" type="github"><diagram id="v_OnPcMUxKcqbrQeODKX" name="Page-1">3VpZc6M4EP41fpwpg4yPR2yc7FRtUp5Jdo59U0DB2gHECBHb+fXbEsIYgxOchBC7KuWgpnX09am77R6ahetLjuPlFfNI0DP73rqHnJ5pjiZj+JSETUYYTMyM4HPqZSSjINzQR6KJfU1NqUeSEqNgLBA0LhNdFkXEFSUa5pytymz3LCjvGmOfVAg3Lg6q1B/UE8uMOjZHBf0vQv1lvrMxnGRvQpwza0mSJfbYaoeE5j0044yJ7Clcz0ggdZfrJZt3ceDt9mCcRKLJhNUj+edf7Pz+PnOcxeNvx2ffp5+0dRKxyQUmHsivh4yLJfNZhIN5QZ1ylkYekav2YVTw/M1YDEQDiP8RITbamDgVDEhLEQb6LRyYb37K+Z+tfPhLL6cGzro02uhRVWKthISl3CVPiKl9TmDuE/EE3yDjkzrY2UDr85KwkMB5gIGTAAv6UPYRrF3N3/IV1oAHbZAjjKNP/YCDVO/UM4eBkMqUT75QOsko9wx0Av6NtR6Gf1LpWNNLzHHIIq+g7M9MYhyVXCBnlEt+WmnntoElYjzEQXWlGTByBrMhzOXHDIcxAY8Au2vKRW+GelPEwzTAMDTyvUEt2fblIwE5k6dC3hV8z3ELt5Q+tlpSQW7iTB0rgKayC97TIJixgHE1F80c25zOn3KxB8IFWT/pFPqtOdIBrxFvqIerAj7QWNOWO9Bh9Vtyo0HFjexUZAbxOAtZRZPJioYBjki7ehqU1WTU6Mns1+hpS3xzRQ0PxptHHw6HSKJwTgaIgeL14UDTIfriVeCvfw2iZlw3gtPIz9e+481jSAlTpn4I+c5HEmmprykNlF9ChhAq9iHAIryO7pJYcfU9lt5J1DxVMc/LYLc0Zg6ZUe6mVGYs1SA7PbnOy0JfhbcgScJwYvM/Kb3DkYs9eQvIiVSJc6LSnZedbE6wQxzCIe3aot8e2r1Y1r1cBZINUU7tcED9CJ5dSE0I5C1TmZJQqOhs/SKknpcVMgTkwXdqKVlfxAycSCUV1rRnOXItqF0ymdXS1aznyYTr+VRI5z7Iapb6GKit1GdSSX1uSRgzDvHVUXqI9tLowbjz/DDvSRxKEHdjwMECf4moS2XB1M8iQNJuaUgahHEDYHhuan6KeeTKSAzBFKyrcywg1GQ4JtcssSNWC9ltHyHALua2SMEgTRPoUwOeybFBZpRjzKqGmFFXqhqthZg57KQhtabiZ95ygudfRW8KRkU3Sg7yZtROE2uMUG+3jfUZGVvCgVaWGi0IhyhUvvLK/paRt0afa3AZH6vDlZ97B1EXUDaJrnoSw72AMJpeOsagtUtn3PzSuZVdHdsRaZBDbKWAaRllpV1crI4xUp+IdYD1spS7wZGfZvqI6KFyrnVtRB51GUmuCPzHtTY5i4vHODrSDKsUaKjm5hm9680DkF2BIlVsdpX/jssaMupUZNXlv8PWVFTtJB90/UONyvaD7ouHPdIB6MwWFx3s+i3F3aj5Wn2DYIeEs2+AKp6CWjuCgkexvLPuaWH091bEPBHY6+iCWWRXrfPCm+VtD3RO9xlqDNeHWzj16Nxaomhap1I6vaLOmXRW56ipNud4s8Og/a1YecEU7uWXuDUp1xNojHbt/Cy/qZOAwi+yExReshXlFdd6TfNPwcrEjSB7TT5ILYYGDWuxPHF6+wg7ov83T2Iim38ATzXVULdALc93kUayMDnfiuToXhjac7caQB/UeFtrP9swB53ged7W2g4yRB8NzN67trTME21pmdWW1hVx8UdC0kFTJG3Pt83mSCqRCr8QN08AqI43p7UHVDV9gfrvxY42JgyL36dm6UbxI180/x8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T05:37:38.234Z" agent="5.0 (X11)" etag="eLE0PxaEJSvdyuVos_gh" version="13.9.9" type="github">
+  <diagram id="v_OnPcMUxKcqbrQeODKX" name="Page-1">
+    <mxGraphModel dx="798" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wzeUZaDkVCDDPzkDgoVB-2" target="wzeUZaDkVCDDPzkDgoVB-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-2" value="&lt;h2&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Controle de Campeonato de Fórmula 1&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="270" y="60" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-4" value="Autódromo" style="swimlane;fillColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-6" value="&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Nome: String&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Quilometragem:&amp;nbsp; double&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ TipoDeCircuito: String&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ QtdPessoasArquibancadas: int&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ AreaDeDerrapagem: double&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="wzeUZaDkVCDDPzkDgoVB-4" vertex="1">
+          <mxGeometry y="35" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-9" value="Temporada" style="swimlane;fillColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="60" y="420" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-10" value="&lt;div&gt;+ DataInicial : DataTime&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ DataEncerramento: DataTime&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ PresentesNosAnos: int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ PlacarAtual: String&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="wzeUZaDkVCDDPzkDgoVB-9" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wzeUZaDkVCDDPzkDgoVB-11" target="wzeUZaDkVCDDPzkDgoVB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-11" value="Piloto" style="swimlane;fillColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="610" y="180" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-18" value="&lt;div&gt;+ Títulos: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Colocação: int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ TipoSanguínio: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ CondicoesMedicas: String&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="wzeUZaDkVCDDPzkDgoVB-11" vertex="1">
+          <mxGeometry x="15" y="30" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-13" value="Pessoa" style="swimlane;fillColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="360" y="130" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-14" value="&lt;div&gt;+ Nome: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Idade: int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ CPF: int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Rua: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ NúmeroResidência; int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Cidade: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Estado: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ País: String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="wzeUZaDkVCDDPzkDgoVB-13" vertex="1">
+          <mxGeometry y="35" width="150" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wzeUZaDkVCDDPzkDgoVB-19" target="wzeUZaDkVCDDPzkDgoVB-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="383" />
+              <mxPoint x="590" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-19" value="Técnicos" style="swimlane;fillColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="610" y="340" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-20" value="&lt;div&gt;+ Especialização: String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Funcoes: String&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="wzeUZaDkVCDDPzkDgoVB-19" vertex="1">
+          <mxGeometry x="30" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wzeUZaDkVCDDPzkDgoVB-21" target="wzeUZaDkVCDDPzkDgoVB-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-21" value="Mecanicos" style="swimlane;fillColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="610" y="440" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wzeUZaDkVCDDPzkDgoVB-22" value="&lt;div&gt;+ Funcao: String&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="wzeUZaDkVCDDPzkDgoVB-21" vertex="1">
+          <mxGeometry x="50" y="30" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-2" value="Equipes" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="335" y="480" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-3" value="+ Nome: String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-2">
+          <mxGeometry x="50" y="30" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-6" value="Fornecedores" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="610" y="510" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-7" value="&lt;div&gt;+ Empresa: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Material: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+QtdProduto: int&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-6">
+          <mxGeometry x="50" y="35" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-8" value="Carro" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="335" y="570" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-9" value="&lt;div&gt;+ Modelo: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Construtora: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Patrocinado: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-8">
+          <mxGeometry x="35" y="30" width="130" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
