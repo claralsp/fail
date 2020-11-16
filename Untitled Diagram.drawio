@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T05:37:38.234Z" agent="5.0 (X11)" etag="eLE0PxaEJSvdyuVos_gh" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T06:00:36.061Z" agent="5.0 (X11)" etag="W59v64Sez1IAt2RSATMT" version="13.9.9" type="github">
   <diagram id="v_OnPcMUxKcqbrQeODKX" name="Page-1">
     <mxGraphModel dx="798" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,11 +60,11 @@
         <mxCell id="wzeUZaDkVCDDPzkDgoVB-22" value="&lt;div&gt;+ Funcao: String&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="wzeUZaDkVCDDPzkDgoVB-21" vertex="1">
           <mxGeometry x="50" y="30" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tKAzST4WF3AaA8PG3MqN-2" value="Equipes" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
-          <mxGeometry x="335" y="480" width="200" height="50" as="geometry" />
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-2" value="Equipes" style="swimlane;fillColor=#CDA2BE;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tKAzST4WF3AaA8PG3MqN-3" value="+ Nome: String" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-2">
-          <mxGeometry x="50" y="30" width="100" height="20" as="geometry" />
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-3" value="&lt;div&gt;+ Nome: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-2">
+          <mxGeometry x="55" y="30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tKAzST4WF3AaA8PG3MqN-6" value="Fornecedores" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
           <mxGeometry x="610" y="510" width="200" height="120" as="geometry" />
@@ -73,10 +73,55 @@
           <mxGeometry x="50" y="35" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tKAzST4WF3AaA8PG3MqN-8" value="Carro" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
-          <mxGeometry x="335" y="570" width="200" height="120" as="geometry" />
+          <mxGeometry x="610" y="650" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tKAzST4WF3AaA8PG3MqN-9" value="&lt;div&gt;+ Modelo: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Construtora: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Patrocinado: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-8">
           <mxGeometry x="35" y="30" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-35" value="4" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0.33;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tKAzST4WF3AaA8PG3MqN-8" source="tKAzST4WF3AaA8PG3MqN-25">
+          <mxGeometry x="-0.949" y="26" relative="1" as="geometry">
+            <mxPoint x="-80" y="130" as="sourcePoint" />
+            <mxPoint y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-24" y="110" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tKAzST4WF3AaA8PG3MqN-35">
+          <mxGeometry x="-0.5014" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-10" value="Mecânica" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-11" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Componentes: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Freio: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ GasolinaConsumida: double&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Parafusos: double&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ TiposAssento: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Capacete: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ TempoDeManuntenção: double&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-10">
+          <mxGeometry x="5" y="10" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-12" value="Corrida" style="swimlane;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="215" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-13" value="&lt;div&gt;+ Participantes: list Equipes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Duracao: double&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ TempoParadasManutencao: double &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ VelocidadeMediaPorEquipe: double&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-12">
+          <mxGeometry x="-5" y="45" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-23" value="Motor" style="swimlane;fillColor=#CDA2BE;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-24" value="+ Potência: double" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-23">
+          <mxGeometry x="50" y="40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-25" value="Pneu" style="swimlane;fillColor=#CDA2BE;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-26" value="&lt;div&gt;+ Material: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Camara: double&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Arco: double&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="tKAzST4WF3AaA8PG3MqN-25">
+          <mxGeometry x="50" y="30" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-32" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;" edge="1" parent="1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="260" y="720" as="sourcePoint" />
+            <mxPoint x="610" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
