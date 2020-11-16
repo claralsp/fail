@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T06:23:19.241Z" agent="5.0 (X11)" etag="mkfnzzR6UCTA41FfB5Dn" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T06:27:56.264Z" agent="5.0 (X11)" etag="t-rYBrY09oPNMPUh30ei" version="13.9.9" type="github">
   <diagram id="v_OnPcMUxKcqbrQeODKX" name="Page-1">
     <mxGraphModel dx="798" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,11 @@
         <mxCell id="1" parent="0" />
         <mxCell id="wzeUZaDkVCDDPzkDgoVB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wzeUZaDkVCDDPzkDgoVB-2" target="wzeUZaDkVCDDPzkDgoVB-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzeUZaDkVCDDPzkDgoVB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="85" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wzeUZaDkVCDDPzkDgoVB-2" value="&lt;h2&gt;&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Controle de Campeonato de Fórmula 1&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" parent="1" vertex="1">
           <mxGeometry x="270" y="60" width="370" height="50" as="geometry" />
@@ -214,6 +219,9 @@
               <mxPoint x="560" y="680" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tKAzST4WF3AaA8PG3MqN-69" value="Clara Letícia Santos Pessoa - 2° RDC" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="45" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
